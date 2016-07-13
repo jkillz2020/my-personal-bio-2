@@ -1,0 +1,17 @@
+body{
+  background-color: lightblue;
+}
+
+.home-link{
+  list-style: none;
+  display: inline-block;
+  border-style: solid;
+  border-color: #0D7077;
+}
+
+.about-link{
+  list-style: none;
+  display: inline-block;
+  border-style: solid;
+  border-color: #0D7077;
+}
